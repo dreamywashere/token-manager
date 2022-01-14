@@ -1,0 +1,5 @@
+token
+
+OR
+ 
+email:pass:token (set config.json thingy to true)
